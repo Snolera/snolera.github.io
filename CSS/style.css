@@ -1,94 +1,80 @@
-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #5C33F6;
-    border-bottom: 10px solid black;
-    border-color: black;
-    padding: 10px 20px;
-}
-
-h1 {
-    font-family: 'Press Start 2P', sans-serif;
-    color: white;
-    text-shadow: 3px 3px 0 #FF94CC;
-    font-size: 30px;
-}
-
-nav {
-    text-align: right;
-}
-
-a {
-    display: inline-flex;
-    align-items: center;
-    color: white;
-    font-size: 20px;
-    font-family: "fira code";
-    font-weight: 500;
-    text-decoration: none;
-    margin-right: 30px;
-}
-
-a::before {
-    content: "";
-    background-color: #FF94CC;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-}
-
-section {
-    background-color: black;
-    height: 740px;
-}
-
-article {
-    display: inline-block;
-    text-align: center;
-    width: 627px;
-    height: 184px;
-    box-shadow: 5px 5px 0 #233E8B;
-    background-color: gray;
-    font-size: 25px;
-    margin: 116px 91px;
-}
-
-h2 {
-    display: inline-block;
-    color: black;
-    text-shadow: 2px 2px 0 #1EAE98;
-    align-items: center;
-    font-family: 'Press Start 2P', sans-serif;
-    text-decoration: none;
-    padding-top: 40px;
-}
-
-h3 {
-    align-items: center;
-    font-family: 'Press Start 2P', sans-serif;
-    color: white;
-    text-shadow: 4px 3px 0 black;
-    padding-top: 15px;
-}
-
-span {
-    background-color: #F25A70;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-}
-
-#button {
-    display: inline-block;
-    /*display para liberar a config. do tomanho do quadrado*/
-    background-color: #FF94CC;
-    padding: 20px 18px;
-    margin-right: 0;
-    box-shadow: 5px 5px 0 black;
-    transition: transform 0.1s linear;
-}
-
-#button:hover {
-    transform: scale(1.07)
-}
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: blue;
+        border-bottom: 10px solid black;
+        border-color: black;
+        padding: 10px 20px;
+    }
+    
+    h1 {
+        font-family: 'Press Start 2P', sans-serif;
+        color: white;
+        text-shadow: 3px 3px 0 red;
+        font-size: 30px;
+    }
+    
+    nav {
+        text-align: right;
+    }
+    
+    a {
+        display: inline-flex;
+        align-items: center;
+        color: white;
+        font-size: 20px;
+        font-family: "fira code";
+        font-weight: 500;
+        text-decoration: none;
+        margin-right: 30px;
+    }
+    
+    a::before {
+        content: "";
+        background-color: red;
+        width: 10px;
+        height: 10px;
+        margin-right: 10px;
+    }
+    
+    span {
+        background-color: #F25A70;
+        width: 10px;
+        height: 10px;
+        margin-right: 10px;
+    }
+    
+    #button {
+        display: inline-block;
+        /*display para liberar a config. do tomanho do quadrado*/
+        background-color: red;
+        padding: 20px 18px;
+        margin-right: 0;
+        box-shadow: 5px 5px 0 black;
+        transition: transform 0.1s linear;
+    }
+    
+    #button:hover {
+        transform: scale(1.07)
+    }
+    
+    h2 {
+        display: inline-flex;
+        color: white;
+        text-shadow: 4px 3px 0 black;
+        align-items: center;
+        font-family: 'Press Start 2P', sans-serif;
+        font-size: 40px;
+        text-decoration: none;
+        padding-top: 40px;
+    }
+    
+    h3 {
+        align-items: center;
+        font-family: 'Press Start 2P', sans-serif;
+        font-size: 30px;
+        color: white;
+        text-shadow: 4px 3px 0 black;
+        padding-top: 15px;
+    }
