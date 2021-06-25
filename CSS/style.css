@@ -2,7 +2,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center;
-        background-color: blue;
+        background-color: #14213D;
         border-bottom: 10px solid black;
         border-color: black;
         padding: 10px 20px;
@@ -10,8 +10,8 @@
     
     h1 {
         font-family: 'Press Start 2P', sans-serif;
-        color: white;
-        text-shadow: 3px 3px 0 red;
+        color: #fff;
+        text-shadow: 3px 3px 0 #FCA311;
         font-size: 30px;
     }
     
@@ -32,7 +32,7 @@
     
     a::before {
         content: "";
-        background-color: red;
+        background-color: #FCA311;
         width: 10px;
         height: 10px;
         margin-right: 10px;
@@ -48,10 +48,10 @@
     #button {
         display: inline-block;
         /*display para liberar a config. do tomanho do quadrado*/
-        background-color: red;
+        background-color: #FCA311;
         padding: 20px 18px;
         margin-right: 0;
-        box-shadow: 5px 5px 0 black;
+        box-shadow: 2px 2px 0 #fff;
         transition: transform 0.1s linear;
     }
     

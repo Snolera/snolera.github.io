@@ -1,19 +1,10 @@
 h2 {
     display: inline-flex;
-    color: white;
+    color: #F25A70;
     text-shadow: 4px 3px 0 black;
     align-items: center;
     font-family: 'Press Start 2P', sans-serif;
     font-size: 40px;
     text-decoration: none;
     padding-top: 40px;
-}
-
-h3 {
-    align-items: center;
-    font-family: 'Press Start 2P', sans-serif;
-    font-size: 30px;
-    color: white;
-    text-shadow: 4px 3px 0 black;
-    padding-top: 15px;
 }
