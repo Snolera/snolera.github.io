@@ -1,0 +1,67 @@
+[33mcommit fde422c62b7145d381e232e6e86974ec739fe92d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:43:08 2021 -0300
+
+    atualizacao no index.html
+
+[33mcommit c72d9ee7d5822a9f96ba9e69077d11cce05ffdce[m
+Merge: 94549ad 971f6bd
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:32:42 2021 -0300
+
+    Merge branch 'master' of https://github.com/Snolera/snolera.github.io
+
+[33mcommit 94549adb10b8c15d74920170e81b3cc22613c356[m
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:32:12 2021 -0300
+
+    Index.html alterada
+
+[33mcommit 971f6bd22b7d0fa8c43e618c4b1303c5fe2f68ca[m
+Author: Snolera <86138865+Snolera@users.noreply.github.com>
+Date:   Thu Jun 24 17:30:02 2021 -0300
+
+    Update index.html
+
+[33mcommit 173ad5d3b436c6349d67ab8abc8806249a146852[m
+Author: Snolera <86138865+Snolera@users.noreply.github.com>
+Date:   Thu Jun 24 17:29:13 2021 -0300
+
+    Update index.html
+
+[33mcommit 9fde90139ee39c98a354dd7a3b25b7e2af9948a4[m
+Merge: 74abd8a 70e1887
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:26:14 2021 -0300
+
+    Merge branch 'master' of https://github.com/Snolera/snolera.github.io
+
+[33mcommit 74abd8a6ea9d3e6082b545d898878ba69b94db4b[m
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:26:02 2021 -0300
+
+    Cria Pasta Logo
+
+[33mcommit b3946c13e5bf5253d1b8a6b4da54554c722f9f24[m
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:25:26 2021 -0300
+
+    Cria o CSS
+
+[33mcommit ec6bfe970a645a14a96c5858c8fa77f51ed3dc71[m
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:20:32 2021 -0300
+
+    Cria a Index.html
+
+[33mcommit 70e1887474e31ba153bfb198334d36c19e6508e1[m
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Thu Jun 24 17:03:55 2021 -0300
+
+    Cria a Index e o CSS
+
+[33mcommit e003f196ea1b6e5a752c5e53aab84ab49d793a55[m
+Author: Yuri Santana <yuri.c.santana@gmail.com>
+Date:   Wed Jun 23 21:28:33 2021 -0300
+
+    commit inicial
