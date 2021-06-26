@@ -1,0 +1,13 @@
+.button {
+    display: inline-block;
+    /*display para liberar a config. do tomanho do quadrado*/
+    background-color: #FCA311;
+    padding: 20px 18px;
+    margin-right: 0;
+    box-shadow: 5px 5px 0 #fff;
+    transition: transform 0.1s linear;
+}
+
+.button:hover {
+    transform: scale(1.07)
+}
