@@ -1,9 +1,10 @@
 #box {
     background-color: #FCA311;
     width: 627px;
+    height: 184px;
     box-shadow: 10px 10px 0 black;
     text-align: center;
-    padding: 42px 0;
+    margin: 116px 91px;
 }
 
 #box h2 {}
