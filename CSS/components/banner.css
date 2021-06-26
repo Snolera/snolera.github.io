@@ -1,0 +1,7 @@
+.banner {
+    background-image: url(../../assets/img/bg-primeiro.png);
+    background-repeat: no-repeat;
+    height: 900px;
+    background-size: 100%;
+    border-bottom: 10px solid #fff;
+}
