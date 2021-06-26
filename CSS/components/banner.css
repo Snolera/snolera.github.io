@@ -5,3 +5,15 @@
     background-size: 100%;
     border-bottom: 10px solid #fff;
 }
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 640px;
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
