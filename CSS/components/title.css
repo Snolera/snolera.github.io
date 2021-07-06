@@ -8,8 +8,8 @@
     text-shadow: 4px 3px 0 black;
 }
 
-.title.-second {
+.title .-second {
     color: black;
     text-shadow: none;
-    margin-left: 45%;
+    text-align: center;
 }
