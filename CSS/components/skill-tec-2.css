@@ -9,8 +9,7 @@
 .skill-tec-2 .icon_css {
     margin-right: 20px;
     margin-top: 33px;
-    height: 85px;
-    width: 90px;
+    align-items: center;
 }
 
 .skill-tec-2 .mid {

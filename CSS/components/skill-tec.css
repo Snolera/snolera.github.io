@@ -7,10 +7,9 @@
         }
         
         .skill-tec .icon {
+            align-items: center;
             margin-right: 20px;
             margin-top: 33px;
-            height: 85px;
-            width: 90px;
         }
         
         .skill-tec .right {
