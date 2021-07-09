@@ -7,7 +7,6 @@
         
         .skill-tec .right {
             display: flex;
-            flex-direction: column;
         }
         
         .skill-tec .icon {
