@@ -1,0 +1,6 @@
+#rectangle {
+    display: flex;
+    width: 280px;
+    height: 280px;
+    background: blue;
+}
