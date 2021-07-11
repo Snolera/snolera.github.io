@@ -1,6 +1,9 @@
 #rectangle {
     display: flex;
+    flex-direction: row;
+    margin-left: 45%;
     width: 280px;
     height: 280px;
-    background: blue;
+    background: #fff;
+    box-shadow: 10px 10px #FCA311;
 }
