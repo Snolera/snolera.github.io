@@ -1,4 +1,4 @@
-.button {
+.link-button {
     display: inline-block;
     /*display para liberar a config. do tomanho do quadrado*/
     background-color: #FCA311;
@@ -11,6 +11,6 @@
     text-decoration: none;
 }
 
-.button:hover {
+.link-button:hover {
     transform: scale(1.07)
 }
